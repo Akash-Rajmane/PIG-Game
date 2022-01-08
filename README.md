@@ -1,2 +1,2 @@
 # PIG-Game
-### hosted link: 
+### hosted link: https://akash-rajmane.github.io/PIG-Game/
